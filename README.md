@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href="#"><img src="https://static3.depositphotos.com/1004468/180/v/450/depositphotos_1800977-stock-illustration-pixel-background.jpg" alt="Markdownify" width="200"></a>
   <br>
   Rafael Benetti
   <br>
