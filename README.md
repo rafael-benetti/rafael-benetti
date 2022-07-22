@@ -9,7 +9,7 @@
 <h4 align="center">Desenvolvedor Web | Frontend e Backend | Técnico em Desenvolvimento de Sistemas.</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
+  <a href="#">
     <img src="https://badge.fury.io/js/electron-markdownify.svg"
          alt="Gitter">
   </a>
