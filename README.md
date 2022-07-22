@@ -35,26 +35,26 @@
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+# Endereço de e-mail
+$ rafael@surfitapema.com.br
 
-# Go into the repository
-$ cd electron-markdownify
+# Sit
+$ surfitapema.com.br
 
-# Install dependencies
-$ npm install
+# Localização
+$ Itapema/SC
 
-# Run the app
-$ npm start
+# Linkedin
+$ https://www.linkedin.com/in/rafael-silv%C3%A9rio-9391531b5/
 ```
 
 ## Download
 
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
+.
 
 ## Support
 
-<a href="https://www.buymeacoffee.com/5Zn8Xh3l9" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="#" target="_blank"><img src="https://www.gobacklog.com/wp-content/uploads/2020/01/Suporte-de-DevOps-o-que-%C3%A9-e-quais-s%C3%A3o-seus-benef%C3%ADcios-o-que-%C3%A9-suporte-devops-1024x536.jpg" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ---
 
