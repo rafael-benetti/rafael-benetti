@@ -30,9 +30,9 @@
 </p>
 
 
-## How To Use
+## Sobre
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+Olá, um pouco sobre meu trabalho, comecei a usar o Wordpress quando ele começou. Passei a maior parte das minhas horas de vigília nos últimos dez anos projetando, programando e operando sites Wordpress. Uma das minhas especialidades é pegar uma ideia do zero e criar uma plataforma completa, seja um e-commerce ou um site institucional. Eu vou além para produzir sites com uma aparência única, excepcional e contemporânea. Com amplo conhecimento de mecânica da web, sou capaz de otimizar integrações complexas sem gerar manutenções. Eu sou um programador PHP de coração e crio recursos que são mais adequados para o trabalho em questão. Também estou sintonizado com desempenhos e SEO. Especializado em soluções criativas para e-commerce, trouxe painéis de login personalizados para os administradores lidarem com sua loja, ignorando o desajeitado painel de administração usado pela maioria dos sites wordpress.
 
 ```bash
 # Endereço de e-mail
