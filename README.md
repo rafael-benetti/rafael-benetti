@@ -17,7 +17,15 @@
     <img src="https://img.shields.io/badge/-Site-brightgreen?style=flat-square&link=https://surfitapema.com.br/" alt="Site">
   </a>
 </p>
-<p align="justify">Olá, sou um desenvolvedor web Full Stack com mais de 10 anos de experiência em projetar, programar e operar sites. Minha especialidade é criar plataformas completas do zero, desde e-commerces até sites institucionais. Tenho amplo conhecimento em mecânica da web, otimização de desempenho e SEO, além de ser um programador PHP de coração, criando recursos adequados para cada trabalho. Sou um especialista em Wordpress e crio sites com uma aparência única, excepcional e contemporânea. Tenho soluções criativas para e-commerces, como painéis de login personalizados para administradores lidarem com sua loja. Atualmente, estou focado na implementação de processos de transformação digital nas empresas, no desenvolvimento de sistemas web e na consultoria de marketing digital. Possuo conhecimentos em ferramentas como Photoshop, Illustrator, Adobe Creative Suite, CorelDRAW, Premiere Pro, Google Ads, RD Station e Facebook Ads. Meu objetivo é sempre superar as expectativas do cliente e produzir resultados de alta qualidade.</p>
+<p align="justify">Olá, sou um desenvolvedor web Full Stack com mais de 10 anos de experiência em projetar, programar e operar sites. 
+  
+  Minha especialidade é criar plataformas completas do zero, desde e-commerces até sites institucionais. Tenho amplo conhecimento em mecânica da web, otimização de desempenho e SEO, além de ser um programador PHP de coração, criando recursos adequados para cada trabalho. 
+  
+  Sou um especialista em Wordpress e crio sites com uma aparência única, excepcional e contemporânea. Tenho soluções criativas para e-commerces, como painéis de login personalizados para administradores lidarem com sua loja.
+  
+  Atualmente, estou focado na implementação de processos de transformação digital nas empresas, no desenvolvimento de sistemas web e na consultoria de marketing digital. Possuo conhecimentos em ferramentas como Photoshop, Illustrator, Adobe Creative Suite, CorelDRAW, Premiere Pro, Google Ads, RD Station e Facebook Ads.
+  
+  Meu objetivo é sempre superar as expectativas do cliente e produzir resultados de alta qualidade.</p>
 <p align="center">
   <a href="mailto:rafael@surfitapema.com.br"><b>rafael@surfitapema.com.br</b></a>
 </p>
