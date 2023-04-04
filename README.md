@@ -27,7 +27,7 @@
   
   Meu objetivo é sempre superar as expectativas do cliente e produzir resultados de alta qualidade.</p>
 <p align="center"> 
-  <a href="mailto:rafael@surfitapema.com.br"><b>rafael@surfitapema.com.br</b></a>
+  <a href="mailto:rafael@creativewave.com.br"><b>rafael@creativewave.com.br</b></a>
 </p>
 <p align="center">
   <b>Localização:</b> Itapema/SC
