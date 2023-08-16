@@ -30,6 +30,5 @@
   <a href="mailto:rafael@creativewave.com.br"><b>rafael@creativewave.com.br</b></a>
 </p>
 <p align="center">
-  <b>Localização:</b> Itapema/SC
+   Itapema/SC
 </p>
-"Nunca pare de aprender, pois a vida nunca para de ensinar."
