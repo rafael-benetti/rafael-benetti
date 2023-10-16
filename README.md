@@ -1,7 +1,7 @@
 # Olá, eu sou [Rafael Benetti](https://creativewave.com.br) 😜️
 
-[![LinkedIn](https://img.shields.io/badge/joaopaulonfreitas-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-silv%C3%A9rio-9391531b5/)
-[![Instagram](https://img.shields.io/badge/joaopaulonfreitas-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_rafa_surf)
+[![LinkedIn](https://img.shields.io/badge/RafaelBenetti-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-silv%C3%A9rio-9391531b5/)
+[![Instagram](https://img.shields.io/badge/RafaelBenetti-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_rafa_surf)
 ### 🚀 Um resumo sobre quem sou...
 
 Eu sou um desenvolvedor full stack que, desenvolve soluções para resolver problemas. Pensando em tecnologias não somente como ferramentas ou linguagens mas, como veículos para chegar a um **DESTINO**, que seria:
