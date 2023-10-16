@@ -34,6 +34,7 @@ Em minha caminhada de desenvolvedor até o momento emprego os seguintes veículo
       <td>Dart</td>
     </tr>
     <tr>
+      <td>Flutter</td>
       <td>Codeigniter</td>
       <td>Wordpress</td>
     </tr>
