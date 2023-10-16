@@ -1,32 +1,79 @@
-<h1 align="center">
-  <br>
-  <a href="#"><img src="https://static3.depositphotos.com/1004468/180/v/450/depositphotos_1800977-stock-illustration-pixel-background.jpg" alt="Foto de Rafael Benetti" width="200"></a>
-  <br>
-  Rafael Benetti
-  <br>
-</h1>
-<h4 align="center">Desenvolvedor Web Full Stack | Especialista em Wordpress | Consultor de Transformação Digital</h4>
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafael-silv%C3%A9rio-9391531b5/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-silv%C3%A9rio-9391531b5/" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/rafael-benetti">
-      <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/rafael-benetti" alt="GitHub">
-  </a>
-  <a href="https://surfitapema.com.br/">
-    <img src="https://img.shields.io/badge/-Site-brightgreen?style=flat-square&link=https://surfitapema.com.br/" alt="Site">
-  </a>
-</p>
-<p align="justify">Olá, sou um desenvolvedor web Full Stack com mais de 10 anos de experiência em projetar, programar e operar sites. 
-  
-  Minha especialidade é criar plataformas completas do zero, desde e-commerces até sites institucionais. Tenho amplo conhecimento em mecânica da web, otimização de desempenho e SEO, além de ser um programador PHP de coração, criando recursos adequados para cada trabalho. 
-  
-  Sou um especialista em Wordpress e crio sites com uma aparência única, excepcional e contemporânea. Tenho soluções criativas para e-commerces, como painéis de login personalizados para administradores lidarem com sua loja.
-  
-  Meu objetivo é sempre superar as expectativas do cliente e produzir resultados de alta qualidade.</p>
-<p align="center"> 
-  <a href="mailto:rafael@creativewave.com.br"><b>rafael@creativewave.com.br</b></a>
-</p>
-<p align="center">
-   Itapema/SC
-</p>
+# Olá, eu sou [Rafael Benetti](https://creativewave.com.br) 😜️
+
+[![LinkedIn](https://img.shields.io/badge/joaopaulonfreitas-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-silv%C3%A9rio-9391531b5/)
+[![Instagram](https://img.shields.io/badge/joaopaulonfreitas-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_rafa_surf)
+### 🚀 Um resumo sobre quem sou...
+
+Eu sou um desenvolvedor full stack que, desenvolve soluções para resolver problemas. Pensando em tecnologias não somente como ferramentas ou linguagens mas, como veículos para chegar a um **DESTINO**, que seria:
+
+- [x] Aumentar vendas;
+- [x] Atrair mais clientes;
+- [x] Reduzir custos;
+- [x] Organizar os processos dentro do negócio;
+
+Logo, todos os meus recursos e capacidades são utilizados para buscar sempre o melhor resultado possível.
+
+### 🛠 Minhas habilidades (✨Skills✨)
+
+Em minha caminhada de desenvolvedor até o momento emprego os seguintes veículos (Ferramentas/Tecnologias) para chegar ao destino (Resultado) esperado.
+
+<table width="100">
+    <tr>
+      <td>PHP</td>
+      <td>HTML</td>
+      <td>CSS</td>
+    </tr>    
+    <tr>
+      <td>C#</td>
+      <td>.Net</td>
+      <td>SqlServer</td>
+    </tr>
+    <tr>
+      <td>Javascript</td>
+      <td>jQuery</td>
+      <td>Dart</td>
+    </tr>
+    <tr>
+      <td>Codeigniter</td>
+      <td>Wordpress</td>
+    </tr>
+</table>
+
+<!--
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![AlpineJS](https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+-->
+
+💬 _**Observação:** há uma diferença em domínio entre as tecnologias listadas, algumas mais outras menos... no entanto, no dia a dia, estão presentes em projetos, estudos e pesquisas_
+
+
+### 🔭 Eterno aluno
+
+Sempre em busca de aprimorar minha capacidade, atualmente estou conhecendo e estudando sobre: 
+
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- Marketing Digital
+- Gestão de tráfego
+
+### 📫 Quer saber como posso te ajudar?
+
+Acessa o site [Creative Wave](https://creativewave.com.br), lá eu te mostro como elaborar um plano de voo para impulsionar seu negócio. 
+**Ao seu Sucesso, 
+Rafael Benetti**
