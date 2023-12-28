@@ -4,8 +4,7 @@
 [![Instagram](https://img.shields.io/badge/RafaelBenetti-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_rafa_surf)
 ### 🚀 Um resumo sobre quem sou...
 
-Eu sou um desenvolvedor full stack que, desenvolve soluções para resolver problemas. Pensando em tecnologias não somente como ferramentas ou linguagens mas, como veículos para chegar a um **DESTINO**, que seria:
-
+Eu sou um desenvolvedor full stack que desenvolve soluções para resolver problemas. Penso nas tecnologias não apenas como ferramentas ou linguagens, mas como veículos para alcançar um DESTINO, que seria:
 - [x] Aumentar vendas;
 - [x] Atrair mais clientes;
 - [x] Reduzir custos;
