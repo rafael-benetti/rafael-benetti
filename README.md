@@ -14,7 +14,7 @@ Logo, todos os meus recursos e capacidades são utilizados para buscar sempre o 
 
 ### 🛠 Minhas habilidades (✨Skills✨)
 
-Em minha caminhada de desenvolvedor até o momento emprego os seguintes veículos (Ferramentas/Tecnologias) para chegar ao destino (Resultado) esperado.
+Em minha caminhada de desenvolvedor até o momento emprego as seguintes (Ferramentas/Tecnologias).
 
 <table width="100">
     <tr>
