@@ -4,13 +4,7 @@
 [![Instagram](https://img.shields.io/badge/RafaelBenetti-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_rafa_surf)
 ### 🚀 Um resumo sobre quem sou...
 
-Eu sou um desenvolvedor full stack que desenvolve soluções para resolver problemas. Penso nas tecnologias não apenas como ferramentas ou linguagens, mas como veículos para alcançar um DESTINO, que seria:
-- [x] Aumentar vendas;
-- [x] Atrair mais clientes;
-- [x] Reduzir custos;
-- [x] Organizar os processos dentro do negócio;
-
-Logo, todos os meus recursos e capacidades são utilizados para buscar sempre o melhor resultado possível.
+Como desenvolvedor full stack, minha abordagem se concentra em criar soluções eficazes para resolver desafios. Encaro as tecnologias não apenas como ferramentas ou linguagens, mas sim como meios para alcançar um objetivo específico.
 
 ### 🛠 Minhas habilidades (✨Skills✨)
 
@@ -61,7 +55,7 @@ Em minha caminhada de desenvolvedor até o momento emprego as seguintes (Ferrame
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 -->
 
-💬 _**Observação:** há uma diferença em domínio entre as tecnologias listadas, algumas mais outras menos... no entanto, no dia a dia, estão presentes em projetos, estudos e pesquisas_
+💬 _**Observação:** há uma diferença em domínio entre as tecnologias listadas, algumas mais outras menos... no entanto, no dia a dia, estão presentes em projetos, estudos e pesquisas..._
 
 
 ### 🔭 Eterno aluno
@@ -69,8 +63,7 @@ Em minha caminhada de desenvolvedor até o momento emprego as seguintes (Ferrame
 Sempre em busca de aprimorar minha capacidade, atualmente estou conhecendo e estudando sobre: 
 
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- Marketing Digital
-- Gestão de tráfego
+
 
 ### 📫 Quer saber como posso te ajudar?
 
