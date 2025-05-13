@@ -14,28 +14,29 @@ I specialize in building efficient, scalable, and well-documented software.
 | Front-End       | Back-End         | Mobile         |
 |-----------------|------------------|----------------|
 | HTML / CSS      | PHP / Laravel    | Flutter / Dart |
-| JavaScript      | C# / .NET        |                |
-| jQuery          | SQL Server       |                |
-| Bootstrap       | MySQL / MariaDB  |                |
+| JavaScript      | CodeIgniter      |                |
+| Bootstrap       | SQL Server       |                |
+| Alpine.js       | MySQL / MariaDB  |                |
 
 | Other Tools     | DevOps / Infra   |
 |-----------------|------------------|
 | Git / GitHub    | Docker           |
 | WordPress       | Firebase         |
-| Alpine.js       | Apache / Nginx   |
+|                 | Apache / Nginx   |
 
 ---
 
-### 🚀 Projects & Portfolio
+### 🚀 Featured Projects
 
-Visit my portfolio at 👉 [creativewave.com.br](https://creativewave.com.br)
+Here are some of the real-world projects I've built or contributed to:
 
-Some of the types of projects I've worked on:
-- Custom mobile apps (Flutter)
-- CRM systems and dashboards
-- Company websites and landing pages
-- WordPress custom themes and plugins
-- APIs and integrations (Laravel / Node.js)
+| Project | Type | Stack | Link |
+|--------|------|-------|------|
+| **[App Saúde Familiar](https://creativewave.com.br/projetos/saude-familiar)** | Mobile App | Flutter, Laravel | 🔗 [View Project](https://creativewave.com.br/projetos/saude-familiar) |
+| **[Sistema de Surf Terapia](https://creativewave.com.br/projetos/surf-terapia)** | Web System | Laravel, JS, MySQL | 🔗 [View Project](https://creativewave.com.br/projetos/surf-terapia) |
+| **[Imobiliária EDR](https://eddierobaski.com)** | Website | PHP, WordPress, own plugin | 🔗 [View Project](https://eddierobaski.com) |
+
+> Add more project links above as needed — this is a great way to show variety (apps, sistemas, sites, etc.)
 
 ---
 
