@@ -34,6 +34,7 @@ Here are some of the real-world projects I've built or contributed to:
 |--------|------|-------|------|
 | **[App Molhes Itapema](https://play.google.com/store/apps/details?id=com.molhes.itapema&hl=pt_BR)** | Mobile App | Flutter, Laravel | 🔗 [View Project](https://play.google.com/store/apps/details?id=com.molhes.itapema&hl=pt_BR) |
 | **[Plugin Wordpress Onesignal](https://github.com/rafael-benetti/flutter-onesignal-wordpress)** | Web System | Worspress, JS, MySQL | 🔗 [View Project](https://github.com/rafael-benetti/flutter-onesignal-wordpress) |
+| **[Somos Itapema](https://somositapema.com.br)** | Website | PHP, WordPress, own plugin, Flutter, APIRest | 🔗 [View Project](https://somositapema.com.br) |
 | **[Imobiliária EDR](https://eddierobaski.com)** | Website | PHP, WordPress, own plugin | 🔗 [View Project](https://eddierobaski.com) |
 
 > Add more project links above as needed — this is a great way to show variety (apps, sistemas, sites, etc.)
